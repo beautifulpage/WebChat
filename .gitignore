@@ -4,3 +4,7 @@
 target/
 *.iml
 layui.layim/
+target/
+.settings/
+target/
+.project
